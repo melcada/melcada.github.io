@@ -2,10 +2,10 @@ remote_theme: andrewbanchich/forty-jekyll-theme
 # site settings
 title: Forty
 subtitle: by HTML5 UP
-email: melaniecadams@gmai.com
+email: melaniecadams@gmail.com
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: melcada.github.io
+url:  # the base hostname & protocol for your site
 author:
 street_address: 1234 Somewhere Road
 city: Nashville
